@@ -1,5 +1,5 @@
 streamlit
-yfinanace
+yfinance
 prophet
 plotly
 numpy<2  
