@@ -2,3 +2,4 @@ streamlit
 yfinanace
 prophet
 plotly
+numpy<2  
